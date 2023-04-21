@@ -5,7 +5,7 @@ git merge master&&
 npm i && npm audit fix &&
 ng build&&
 rm *.json node_modules src front *.MD *.md -rf
-mv dist/kernelious/* . &&
+mv dist/neghab/* . &&
 rm dist -rf
 rm README.md
 git add -A
